@@ -1,0 +1,26 @@
+TODO:
+
+	(automatically find kindle?)
+		find vocab.db
+
+		windows/linux support?
+
+	Import vocab.db
+		wordlist into python
+			using?:
+				sqllite3
+				SQL Alchemy
+
+			dict?
+
+	Grab data from wordnik
+		put into dict?
+
+		which data?
+
+	Python dict to Anki flashcards
+		learn this shit
+			http://ankisrs.net/docs/addons.html
+
+
+	Build QT interface
